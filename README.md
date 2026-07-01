@@ -6,9 +6,9 @@ _I am currently classfied as a senior and I am a Cybersecurity major with a mino
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
-![Music](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)]
-![Video Games](https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff)]
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]
+![Music](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
+![Video Games](https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/karinanperez4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-perez-315007297/)
