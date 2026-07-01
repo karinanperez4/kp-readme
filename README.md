@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Karina
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am currently classfied as a senior and I am a Cybersecurity major with a minor in Digital Forensics! I work at CapGemini as a Financial Crime Compliance Analyst here in San Antonio. I love going to concerts and traveling. I also love going to record stores as well as barnes and nobles. I also love to play video games and to go on walks with my dog._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
